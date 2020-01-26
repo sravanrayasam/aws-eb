@@ -1,9 +1,9 @@
 <?php
-$t = "mahesh,raam,namitha,manju,swamy";
+$t = "PP - HOW ARE YOU ? ";
 
 if ($t = "$null") {
-    echo "Have a good day!";
+    echo "HOPE YOU ARE DOING GOOD!";
 }
 else
-{ echo "Hi all , HAppy new year, namitha,niranjan,mahesh,raam,swamy ";}
+{ echo "  Where are you ?  ";}
 ?>
